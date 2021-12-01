@@ -1,0 +1,2 @@
+# 5minutecraftstitle
+Repository untuk Tugas Data Sains dengan Judul "ANALISIS JUDUL CLICKBAIT VIDEO SALURAN YOUTUBE 5MINUTE CRAFTS TERHADAP JUMLAH PENONTON"
